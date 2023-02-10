@@ -5,6 +5,5 @@ dependencies:
   - conda-forge::numpy
   - pandas
   - jupyterlab
-  - librosa
   - scipy
   - conda-forge::resampy
